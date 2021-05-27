@@ -1,4 +1,6 @@
-### Prediction of Occurrence of Ventricular Arrhythmia using QRS features
+## Prediction of Occurrence of Ventricular Arrhythmia using QRS features
+
+Ventricular arrhythmia (VA) causes a very fast heart rate and eventual death if there is no immediate medical attention given. Most sudden cardiac deaths are caused by abnormal heart rhythms, also called arrhythmia. There are mainly two different arrhythmias which are Ventricular Fibrillation(VF) & Ventricular Tachycardia(VT). This project is about training a Machine Learning model to predict Ventricular Fibrillation before its occurrence.
 
 #### Dataset Decsription
 
